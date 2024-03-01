@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brittany Wehrle
-- 👀 I’m interested in helping health and wellness companies make data-driven decisions to create more significant consumer impact and increase business revenue
+- 👀 I’m interested in helping health and wellness companies make data-drive decisions to increase revenue and create bigger customer impact
 - 🌱 I’m currently learning how to better utilize Power BI and am loving all that it can do!
 - 💞️ I’m looking to collaborate on any business analytics projects that are in (or adjacent to) health, fitness, or wellness-focused businesses
 - 📫 How to reach me: via email at brittanywehrle1@gmail.com or a LinkedIn message
