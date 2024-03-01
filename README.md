@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Brittany Wehrle
-- 👀 I’m interested in helping health and wellness companies make data-drive decisions to increase revenue and create bigger customer impact
-- 🌱 I’m currently learning how to better utilize Power BI and am loving all that it can do!
-- 💞️ I’m looking to collaborate on any business analytics projects that are in (or adjacent to) health, fitness, or wellness-focused businesses
-- 📫 How to reach me: via email at brittanywehrle1@gmail.com or a LinkedIn message
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I have an engineering degree, but then worked as a dietitian for 8 years! As I look towards what I want the rest of my professional career to look like, I am excited to merge my existing skillsets to make a big impact as a business analyst for and health and wellness focused companies
+Hi, I’m Brittany, a junior business intelligence analyst with a background as a dietitian and small business owner. I have 4 years of experience analyzing my business data and leveraging those insights to drive growth, and in this time I have fallen in love with the analytics side of running a business! I am eager to blend my experiences and technical skills to become a successful business analyst for a company in the health and wellness industry.
 
-<!---
-brittanywehrle/brittanywehrle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently, I am continuing to see my personal nutrition clients while concurrently growing my data-specific experience via outsourced projects for other companies. I am also enrolled in a Business Intelligence Analyst bootcamp to further hone my technical skills. During this time, I have become very familiar with Microsoft Excel, SQL, Tableau and Power BI via both theory work and projects.
+
+A little more about me
+🚲 I teach indoor cycling at a boutique studio in downtown Dallas!
+🍎 I worked as a sports dietitian in the SEC and BIG 10 before starting my own business
+🌊 I'm terrified of deep water but love the beach
+📚 I'm almost always reading two books at once
