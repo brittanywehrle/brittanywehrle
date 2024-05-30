@@ -1,7 +1,7 @@
 ## Hi, I'm Brittany Wehrle!
 
  <a href="https://www.linkedin.com/in/brittany-little-rd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brittanywehrle1@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:brittanywehrle1@gmail.com?subject=Hello%20from%20Github!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Hi, I’m Brittany, a junior business intelligence analyst with a background as a dietitian and small business owner. I have 4 years of experience analyzing my business data and leveraging those insights to drive growth, and in this time I have fallen in love with the analytics side of running a business! I am eager to blend my experiences and technical skills to become a successful business analyst for a company in the health and wellness industry.
 
